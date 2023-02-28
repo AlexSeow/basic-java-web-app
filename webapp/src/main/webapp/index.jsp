@@ -1,4 +1,4 @@
-<h1>user3 - Welcome to the coolest Tomcat webapp ever !</h1>
+<h1>user3 - Welcome to the Tomcat webapp !!!!!!!!!!!!!!!</h1>
 
 <h2>user3 - Interesting things to do for today</h2>
 
